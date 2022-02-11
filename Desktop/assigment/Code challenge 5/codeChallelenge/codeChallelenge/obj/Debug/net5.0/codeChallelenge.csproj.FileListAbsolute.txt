@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\bin\Debug\net5.0\codeChallelenge.exe
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\bin\Debug\net5.0\codeChallelenge.deps.json
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\bin\Debug\net5.0\codeChallelenge.runtimeconfig.json
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\bin\Debug\net5.0\codeChallelenge.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\bin\Debug\net5.0\codeChallelenge.dll
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\bin\Debug\net5.0\ref\codeChallelenge.dll
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\bin\Debug\net5.0\codeChallelenge.pdb
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\obj\Debug\net5.0\codeChallelenge.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\obj\Debug\net5.0\codeChallelenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\obj\Debug\net5.0\codeChallelenge.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\obj\Debug\net5.0\codeChallelenge.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\obj\Debug\net5.0\codeChallelenge.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\obj\Debug\net5.0\codeChallelenge.dll
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\obj\Debug\net5.0\ref\codeChallelenge.dll
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\obj\Debug\net5.0\codeChallelenge.pdb
+C:\Users\HP\Desktop\Code challenge 5\codeChallelenge\codeChallelenge\obj\Debug\net5.0\codeChallelenge.genruntimeconfig.cache
